@@ -1,0 +1,20 @@
+,IdActor,Occupation,NickName,UsualFirstName,JerseyNumber,Position,IsStarter
+0,736418,Player,Schlager,Alexander,1,GoalKeeper,True
+1,865302,Player,Andrade,Andres,30,CentralDefenderLeft,True
+2,551844,Player,Trauner,Gernot,18,Sweeper,True
+3,997427,Player,Wiesinger,Philipp,6,CentralDefenderRight,True
+4,1058906,Player,Renner,Rene,7,WideMidfielderLeft,True
+5,617173,Player,Michorl,Peter,10,CentralMidfielderLeft,True
+6,922857,Player,Madsen,Mads Emil,21,CentralMidfielderRight,True
+7,734131,Player,Ranftl,Reinhold,26,WideMidfielderRight,True
+8,897314,Player,Eggestein,Johannes,13,CenterForward,True
+9,831314,Player,Goiginger,Thomas,27,CenterForwardLeft,True
+10,1061291,Player,Reiter,Dominik,11,CenterForwardRight,True
+11,1194328,Player,Plojer,Patrick,20,CenterForwardRight,False
+12,401895,Player,Gebauer,Thomas,36,Undefined,False
+13,1160131,Player,Haudum,Stefan,23,Undefined,False
+14,880626,Player,Muller,Valentino,19,Undefined,False
+15,551860,Player,Potzmann,Marvin,16,Undefined,False
+16,981698,Player,Cheberko,Yevgen,22,Undefined,False
+17,353497,Player,Ramsebner,Christian,15,Undefined,False
+18,927316,Coach,Thalhammer,Dominik,,,
